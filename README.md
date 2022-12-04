@@ -3,5 +3,5 @@
 <param ve-config
 title="How to Read an Herbarium Specimen"
 author="Maura C. Flannery"
-banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.files.wordpress.com/2022/08/nelson_pityopsis.jpg"
+banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.files.wordpress.com/2022/12/eleocharis.jpg"
        layout="vertical">
