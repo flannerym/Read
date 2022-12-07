@@ -23,7 +23,10 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q1292038"><!-- infestation -->
 <param ve-entity eid="Q19829510" aliases="pollutants"><!-- pollutant -->
 <param ve-entity eid="Q47041"><!-- biodiversity -->
-<param ve-entity eid="Q"><!--  -->
+<param ve-entity eid="Q7942"><!-- global warming -->
 <param ve-entity eid="Q522431"><!-- habitat destruction -->
+<param ve-entity eid="Q66514"><!-- Leonhard Rauwolf -->
+<param ve-entity eid="Q"><!--  -->
+<param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
