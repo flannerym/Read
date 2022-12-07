@@ -19,7 +19,11 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q1035"><!-- Charles Darwin -->
 <param ve-entity eid="Q7430"><!-- DNA -->
 <param ve-entity eid="Q1063" aliases="evolutionary"><!-- evolution -->
+<param ve-entity eid="Q7162" aliases="genetic"><!-- genetics -->
+<param ve-entity eid="Q1292038"><!-- infestation -->
+<param ve-entity eid="Q19829510" aliases="pollutants"><!-- pollutant -->
+<param ve-entity eid="Q47041"><!-- biodiversity -->
 <param ve-entity eid="Q"><!--  -->
-<param ve-entity eid="Q"><!--  -->
+<param ve-entity eid="Q522431"><!-- habitat destruction -->
 <param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
