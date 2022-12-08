@@ -17,7 +17,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q8269924"><!-- taxonomy -->
 <param ve-entity eid="Q3516404"><!-- systematics -->
 <param ve-entity eid="Q1035"><!-- Charles Darwin -->
-<param ve-entity eid="Q7430"><!-- DNA -->
+<param ve-entity eid="Q7430"><!-- DNA -->355348
 <param ve-entity eid="Q1063" aliases="evolutionary"><!-- evolution -->
 <param ve-entity eid="Q7162" aliases="genetic"><!-- genetics -->
 <param ve-entity eid="Q1292038"><!-- infestation -->
@@ -26,6 +26,13 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q7942"><!-- global warming -->
 <param ve-entity eid="Q522431"><!-- habitat destruction -->
 <param ve-entity eid="Q66514"><!-- Leonhard Rauwolf -->
+<param ve-entity eid="Q313492"><!-- Meriwether Lewis -->
+<param ve-entity eid="Q505802" aliases="expedition"><!-- Lewis and Clark Expedition -->
+<param ve-entity eid="Q355348"><!-- William Clark -->
+<param ve-entity eid="Q1349394"><!-- Richard Spruce -->
+<param ve-entity eid="Q1138945"><!-- Darlingtonia californica -->
+<param ve-entity eid="Q"><!--  -->
+<param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
