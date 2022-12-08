@@ -31,9 +31,11 @@ banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.fil
 <param ve-entity eid="Q355348"><!-- William Clark -->
 <param ve-entity eid="Q1349394"><!-- Richard Spruce -->
 <param ve-entity eid="Q1138945"><!-- Darlingtonia californica -->
-<param ve-entity eid="Q"><!--  -->
-<param ve-entity eid="Q"><!--  -->
-<param ve-entity eid="Q"><!--  -->
-<param ve-entity eid="Q"><!--  -->
+<param ve-entity eid="Q115633132"><!-- Alberto Baraya -->
+<param ve-entity eid="Q115633138"><!-- Tracey Bush -->
+<param ve-entity eid="Q4441"><!-- Emily Dickinson -->
+<param ve-entity eid="Q44007"><!-- Paul Klee -->
+<param ve-entity eid="Q39286" aliases="entomologist"><!-- entomology -->
+<param ve-entity eid="Q1956533"><!-- pitcher plant -->
 <param ve-entity eid="Q"><!--  -->
 <param ve-entity eid="Q"><!--  -->
