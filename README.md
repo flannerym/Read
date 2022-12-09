@@ -3,7 +3,7 @@
 <param ve-config
 title="How to Read an Herbarium Specimen"
 author="Maura C. Flannery"
-banner="https://iiif.juncture-digital.org/banner/?url=https://herbariumworld.files.wordpress.com/2022/12/eleocharis.jpg"
+banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldrovandi/image/vol10fg008.JPG"
        layout="vertical">
 
 <param ve-entity eid="Q181916"> <!-- herbarium -->
