@@ -7,10 +7,10 @@ banner="https://iiif.juncture-digital.org/banner/?
         url=http://137.204.21.141/aldrovandi/image/vol10fg008.JPG"
        layout="vertical">
 
+<param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q181916"> <!-- herbarium -->
 <param ve-entity eid="Q441" aliases="botanists"><!-- botany -->
 <param ve-entity eid="Q397"> <!-- Latin -->      
-<param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q34740"> <!-- genus -->
 <param ve-entity eid="Q22664"> <!-- geographic coordinates -->
 <param ve-entity eid="Q519"> <!-- Napoleon -->
@@ -62,7 +62,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/tools.jpg">
 
 ## What Information Is on a Specimen Label?
 
-A label with at least the plant’s identifies the specimen.  Early labels usually contained little more than the name, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
+A label with at least the plant’s name identifies the specimen.  Early labels usually contained little more than the name, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
 
 <param ve-image fit
        label="Specimen of anemone now <em>Anenome hortensis</em> from the collection of Ulisse Aldrovandi, a colleague of Luca Ghini" 
