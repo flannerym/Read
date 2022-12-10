@@ -38,7 +38,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q39286" aliases="entomologist"><!-- entomology -->
 <param ve-entity eid="Q1956533"><!-- pitcher plant -->
 
-# What Are Herbarium Specimens?
+## What Are Herbarium Specimens?
 
 There are over 340,000 known flowering plant species, a lot to keep track of.  With many these species threatened by environmental change, it’s particularly important to document what is growing where.  This is one of the functions of herbarium specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century.  
 
@@ -48,3 +48,13 @@ There are over 340,000 known flowering plant species, a lot to keep track of.  W
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg">
 {#paragraph1}
+
+## How Are Herbarium Specimens Made?
+
+The technique used to preserve plants is very similar to that originally used.  A cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn’t curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  Bulky items, like pine cones, are stored in boxes and items like fruits and orchid flowers are kept in jars filled with a liquid preservative.  
+
+<param ve-image fit ref="1"
+       label="Three plant collecting tools: vasculum, plant press, and loupe or hand lens"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2022/08/tools.jpg">
+{#paragraph2}
