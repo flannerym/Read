@@ -75,3 +75,16 @@ url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG">
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/08/nelson_pityopsis.jpg">
 {#paragraph3}
+
+## How Are Specimens Stored?
+
+The practice of making specimens may have begun with people slipping cuttings between pages of a book, as a remembrance either romantic or scientific.  So it’s not surprising that many early herbaria were in book form.  Some collectors kept the specimens loose, others pasted or sewed them to sheets.  However, not everyone bound their specimens.  Leaving the sheets unbound made it easier to sort them, keep similar species together, and refile them as classifications changed.  Now, most herbaria store their specimens in folders for each species or genus, laid flat in metal cabinets; some put the folders in boxes.
+
+<param ve-image fit
+       label="One of Irish botanist Augustine Henry's boxes of tree specimens"
+       description="National Botanic Garden of Ireland"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jpg">
+     
+
+{#paragraph4}
