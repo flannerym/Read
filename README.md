@@ -90,5 +90,5 @@ url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jp
        label="Folders of <em>Pinus<em> species"
        description="A.C. Moore Herbarium, University of South Carolina, Columbia, SC"
        license="public domain"
-url="https://herbariumworld.files.wordpress.com/2021/11/4-pine-cabinet.jpg">
+url="[https://herbariumworld.files.wordpress.com/2021/11/4-pine-cabinet.jpg](https://herbariumworld.files.wordpress.com/2021/11/4-pine-cabinet.jpg)">
 {#paragraph4}
