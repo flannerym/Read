@@ -87,4 +87,9 @@ The practice of making specimens may have begun with people slipping cuttings be
 url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jpg">
      
 
+<param ve-image fit
+       label="Pine folders"
+       description="A.C. Moore Herbarium, University of South Carolina, Columbia, SC"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2021/11/4-pine-cabinet.jpg">
 {#paragraph4}
