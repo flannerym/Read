@@ -6,7 +6,7 @@ author="Maura C. Flannery"
 banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldrovandi/image/vol10fg008.JPG"
        layout="vertical">
 
-<param ve-entity eid="Q7432"> 
+<param ve-entity eid="Q7432"> <!-- species -->
 
 ## What Are Herbarium Specimens?
 
