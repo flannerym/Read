@@ -8,6 +8,10 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 
 <param ve-entity eid="Q7432"> <!-- species -->
 <param ve-entity eid="Q181916"> <!-- herbarium -->
+<param ve-entity eid="Q441" aliases="botanists"> <!-- botany -->
+<param ve-entity eid="Q397"> <!-- Latin -->      
+
+
 
 ## What Are Herbarium Specimens?
 
