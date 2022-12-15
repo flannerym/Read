@@ -12,6 +12,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q397"> <!-- Latin --> 
 <param ve-entity eid="Q34740"> <!-- genus --> 
 <param ve-entity eid="Q22664"> <!-- geographic coordinates -->
+<param ve-entity eid="Q519"> <!-- Napoleon -->
 
 ## What Are Herbarium Specimens?
 
