@@ -92,3 +92,19 @@ url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jp
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/12/pine-cabinet.jpeg">
 {#paragraph4}
+
+## How Do Specimens Get Around?
+
+Most herbaria have a diversity of specimens from many collectors, and specimens can end up in surprising places.  Botanists have always traded specimens to obtain ones of species they want to see for ones they have in multiples.  For example, British botanists were interested in North American species, while United States botanists craved seeing European plants, so exchanges were sought after.  Some collections made on Latin American expeditions were sold to collectors in Britain and France, others were plundered by the likes of Napoleon when he invaded Spain.  Today, it’s common for private collectors to donate their specimens to herbaria, and for herbaria to “pay” for determination of a species by giving an expert a duplicate.  It is such mobility that makes opening an herbarium cabinet exciting.
+
+<param ve-image fit
+       label="Specimen of <em>Helichrysum arenarium<em> from Jacob Breyne's 1673 herbarium; Breyne was from a Dutch family who had moved to what is now Poland, but the plants are from France, indicating the international flavor of herbaria (Jong et al., 2022)"
+       description="Naturalis Biodiversity Center, Leiden"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2022/09/1-breyne.jpg">
+
+<param ve-image fit
+       label="Specimen of <em>Franklinia alatamaha</em> collected by William Bartram in Georgia in June 1773, sent to a patron in England, thus now in a British herbarium"
+       description="Natural History Museum, London"
+url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.jpeg">
+{#paragraph5}
