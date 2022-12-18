@@ -13,14 +13,17 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q34740"> <!-- genus --> 
 <param ve-entity eid="Q22664"> <!-- geographic coordinates -->
 <param ve-entity eid="Q517"> <!-- Napoleon -->
-param ve-entity eid="Q1043"> <!-- Carl Linnaeus -->       
+<param ve-entity eid="Q1043"> <!-- Carl Linnaeus -->       
 <param ve-entity eid="Q8269924"> <!-- taxonomy -->
 <param ve-entity eid="Q3516404"> <!-- systematics -->
-
-
-
-
-
+<param ve-entity eid="Q1035"><!-- Charles Darwin -->
+<param ve-entity eid="Q7430"><!-- DNA -->355348
+<param ve-entity eid="Q1063" aliases="evolutionary"><!-- evolution -->
+<param ve-entity eid="Q7162" aliases="genetic"><!-- genetics -->
+<param ve-entity eid="Q1292038"><!-- infestation -->
+<param ve-entity eid="Q19829510" aliases="pollutants"><!-- pollutant -->
+<param ve-entity eid="Q47041"><!-- biodiversity -->
+<param ve-entity eid="Q7942"><!-- global warming -->
 
 
 ## What Are Herbarium Specimens?
