@@ -84,3 +84,12 @@ url="https://herbariumworld.files.wordpress.com/2022/09/1-breyne.jpg">
        description="Natural History Museum, London"
 url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.jpeg">
 {#paragraph5}
+
+## How Are Specimens Used by Botanists?
+
+Herbaria have always been used for reference, as a reminder of a plant’s characteristics, and to teach students.  Botanists rely on specimens to compare traits among related species.  By the 18th century, when the Swedish botanist Carl Linnaeus developed his classification and naming system, herbaria had become essential tools because they provided evidence from the plant itself.  In the 19th century, the practice developed of considering the specimen studied by the person who originally described the species to be particularly important.  This became known as a type specimen.  Besides work in classification or taxonomy, specimens are used in systematics, that is, working out how species are related to each other. 
+{#paragraph6}
+
+Charles Darwin posited that all living things arose from a single organism and through descent with modification the number of species increased and organisms evolved different traits, driving the process still further.  In the 21st century it has become possible to extract DNA from specimens and use it in comparing species, making preserved plants powerful tools in evolutionary research and in studying genetic differences among populations of a single species.  In addition, chemists can analyze specimens for substances with medicinal effects, for plant chemicals produced during insect infestation, and for heavy metal pollutants.  As biodiversity is threatened by global warming and habitat destruction, specimen data is crucial in tracking climate change, spread of invasive species, and degradation of habitats.  Herbaria also house specimens of species now extinct in the wild and specimens that are identified as new species even decades or centuries after they were collected. 
+{#paragraph7}
+
