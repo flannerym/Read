@@ -136,3 +136,6 @@ Herbaria can be the focus of an historian’s research or one source of informat
 url="https://herbariumworld.files.wordpress.com/2022/12/rauwolf-sm-limonium-l.2111480.jpeg">
 {#paragraph8}
 
+Other historians use herbaria as one of many sources of information on topics ranging from documenting the travels of plant collectors to indigenous knowledge about plants and its exploitation by colonizers.  While specimen labels, particularly old ones, often contain just brief bits of information, these can be helpful in substantiating other information about a collector.  A specimen collected by Meriwether Lewis on his expedition with William Clark might give a general locale for collection and perhaps a date, but their journals can give more information about where they were and when.  The British plant collector Richard Spruce took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens.  
+
+{#paragraph9}
