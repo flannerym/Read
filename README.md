@@ -26,6 +26,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q7942"><!-- global warming -->
 <param ve-entity eid="Q66514"><!-- Leonhard Rauwolf -->
 <param ve-entity eid="Q7204" aliases="Middle Eastern"><!-- Middle East -->
+<param ve-entity eid="Q313492"><!-- Meriwether Lewis -->
+<param ve-entity eid="Q355348"><!-- William Clark -->
+<param ve-entity eid="Q1349394"><!-- Richard Spruce -->
 
 
 ## What Are Herbarium Specimens?
