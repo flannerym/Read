@@ -25,6 +25,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q47041"><!-- biodiversity -->
 <param ve-entity eid="Q7942"><!-- global warming -->
 <param ve-entity eid="Q66514"><!-- Leonhard Rauwolf -->
+<param ve-entity eid="Q7204" aliases="Middle Eastern"><!-- Middle East -->
 
 
 ## What Are Herbarium Specimens?
@@ -134,3 +135,4 @@ Herbaria can be the focus of an historian’s research or one source of informat
        license="Public Domain"
 url="https://herbariumworld.files.wordpress.com/2022/12/rauwolf-sm-limonium-l.2111480.jpeg">
 {#paragraph8}
+
