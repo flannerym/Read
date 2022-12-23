@@ -24,6 +24,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q19829510" aliases="pollutants"><!-- pollutant -->
 <param ve-entity eid="Q47041"><!-- biodiversity -->
 <param ve-entity eid="Q7942"><!-- global warming -->
+<param ve-entity eid="Q66514"><!-- Leonhard Rauwolf -->
 
 
 ## What Are Herbarium Specimens?
@@ -121,7 +122,15 @@ Charles Darwin posited that all living things arose from a single organism and t
        description="Shirley C. Tucker Herbarium, Louisiana State University"
        license="CC BY-NC 3.0"
 url="https://herbariumworld.files.wordpress.com/2022/12/eustoma-exaltatum-lsu00213549_l.jpeg">
-
-
 {#paragraph7}
 
+## How Are Specimens Used by Historians?
+
+Herbaria can be the focus of an historian’s research or one source of information among many.  Botanists paid little attention to early herbaria because these only contained old plant names that were no longer valid.  Now collections are being reexamined, and historians are finding them valuable records of the movement of plants, such as the arrival of tomato specimens and seeds into Europe from Latin America and Middle Eastern specimens brought back by the Dutch botanist Leonhard Rauwolf.  These include varieties of cultivated plants that long ago disappeared.
+
+<param ve-image fit
+       label="<em>Limonium sinuatum<em> collected in Lebanon by Leonhard Rauwolf in 1575"
+       description="Naturalis Biodiversity Center. Leiden, NLD"
+       license="Public Domain"
+url="https://herbariumworld.files.wordpress.com/2022/12/rauwolf-sm-limonium-l.2111480.jpeg">
+{#paragraph8}
