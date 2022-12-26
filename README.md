@@ -80,7 +80,7 @@ The practice of making specimens may have begun with people slipping cuttings be
 url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jpg">
 
 <param ve-image fit
-       label="Folders of <em>Pinus<em> species"
+       label="Folders of <em>Pinus</em> species"
        description="A.C. Moore Herbarium, University of South Carolina, Columbia, SC"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/12/pine-cabinet.jpeg">
@@ -91,7 +91,7 @@ url="https://herbariumworld.files.wordpress.com/2022/12/pine-cabinet.jpeg">
 Most herbaria have a diversity of specimens from many collectors, and specimens can end up in surprising places.  Botanists have always traded specimens to obtain ones of species they want to see for ones they have in multiples.  For example, British botanists were interested in North American species, while United States botanists craved seeing European plants, so exchanges were sought after.  Some collections made on Latin American expeditions were sold to collectors in Britain and France, others were plundered by the likes of Napoleon when he invaded Spain.  Today, it’s common for private collectors to donate their specimens to herbaria, and for herbaria to “pay” for determination of a species by giving an expert a duplicate.  It is such mobility that makes opening an herbarium cabinet exciting.
 
 <param ve-image fit
-       label="Specimen of <em>Helichrysum arenarium<em> from Jacob Breyne's 1673 herbarium; Breyne was from a Dutch family who had moved to what is now Poland, but the plants are from France, indicating the international flavor of herbaria (Jong et al., 2022)"
+       label="Specimen of <em>Helichrysum arenarium</em> from Jacob Breyne's 1673 herbarium; Breyne was from a Dutch family who had moved to what is now Poland, but the plants are from France, indicating the international flavor of herbaria (Jong et al., 2022)"
        description="Naturalis Biodiversity Center, Leiden"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/09/1-breyne.jpg">
@@ -122,7 +122,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
 Charles Darwin posited that all living things arose from a single organism and through descent with modification the number of species increased and organisms evolved different traits, driving the process still further.  In the 21st century it has become possible to extract DNA from specimens and use it in comparing species, making preserved plants powerful tools in evolutionary research and in studying genetic differences among populations of a single species.  In addition, chemists can analyze specimens for substances with medicinal effects, for plant chemicals produced during insect infestation, and for heavy metal pollutants.  As biodiversity is threatened by global warming and habitat destruction, specimen data is crucial in tracking climate change, spread of invasive species, and degradation of habitats.  Herbaria also house specimens of species now extinct in the wild and specimens that are identified as new species even decades or centuries after they were collected. 
 
 <param ve-image fit
-       label="<em>Eustoma exaltatum<em> catchfly prairie gentian collected by Chase Mathey in Cameron, Louisiana. Geographic coordinates and flowering status are noted on the label"
+       label="<em>Eustoma exaltatum</em> catchfly prairie gentian collected by Chase Mathey in Cameron, Louisiana. Geographic coordinates and flowering status are noted on the label"
        description="Shirley C. Tucker Herbarium, Louisiana State University"
        license="CC BY-NC 3.0"
 url="https://herbariumworld.files.wordpress.com/2022/12/eustoma-exaltatum-lsu00213549_l.jpeg">
@@ -133,7 +133,7 @@ url="https://herbariumworld.files.wordpress.com/2022/12/eustoma-exaltatum-lsu002
 Herbaria can be the focus of an historian’s research or one source of information among many.  Botanists paid little attention to early herbaria because these only contained old plant names that were no longer valid.  Now collections are being reexamined, and historians are finding them valuable records of the movement of plants, such as the arrival of tomato specimens and seeds into Europe from Latin America and Middle Eastern specimens brought back by the Dutch botanist Leonhard Rauwolf.  These include varieties of cultivated plants that long ago disappeared.
 
 <param ve-image fit
-       label="<em>Limonium sinuatum<em> collected in Lebanon by Leonhard Rauwolf in 1575"
+       label="<em>Limonium sinuatum</em> collected in Lebanon by Leonhard Rauwolf in 1575"
        description="Naturalis Biodiversity Center. Leiden, NLD"
        license="Public Domain"
 url="https://herbariumworld.files.wordpress.com/2022/12/rauwolf-sm-limonium-l.2111480.jpeg">
@@ -147,7 +147,7 @@ Other historians use herbaria as one of many sources of information on topics ra
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
 
 <param ve-image fit
-        label="Specimen of <em>Piptadenia peregrine<em>, now <em>Anadenanthera peregrina<em>, collected by Richard Spruce on the north shore of the Amazon, at entrance to the Rio Negro in August 1851. 'This tree is planted by the Indians near their houses. . .the seeds are roasted and ground in the manner of coffee, and the powder taken as snuff.'"
+        label="Specimen of <em>Piptadenia peregrine</em>, now <em>Anadenanthera peregrina</em>, collected by Richard Spruce on the north shore of the Amazon, at entrance to the Rio Negro in August 1851. 'This tree is planted by the Indians near their houses. . .the seeds are roasted and ground in the manner of coffee, and the powder taken as snuff.'"
         description="Royal Botanic Gardens, Kew"
 url="https://herbariumworld.files.wordpress.com/2022/12/spruce.jpeg">
 {#paragraph9}
