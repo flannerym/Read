@@ -146,4 +146,8 @@ Other historians use herbaria as one of many sources of information on topics ra
        description="Deposited by the American Philosophical Society at the Academy of Natural Sciences of Drexel University (PH Herbarium PH00043182677)"
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
 
+<param ve-image fit
+        label="Specimen of <em>Piptadenia peregrine<em> (now <em>Anadenanthera peregrina<em>) collected by Richard Spruce on the north shore of the Amazon, at entrance to the Rio Negro in August 1851. "This tree is planted by the Indians near their houses. . .the seeds are roasted and ground in the manner of coffee, and the powder taken as snuff.""
+        description="Royal Botanic Gardens, Kew"
+url="https://herbariumworld.files.wordpress.com/2022/12/spruce.jpeg">
 {#paragraph9}
