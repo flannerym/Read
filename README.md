@@ -155,7 +155,7 @@ url="https://herbariumworld.files.wordpress.com/2022/12/spruce.jpeg">
 
 ## How Are Specimens Used by Artists?
 
-From the early days of herbaria, specimens have been used as reference material by artists.  In illustrations where plants appear flattened, it might be because the artist was looking at a specimen rather than a living plant.  However, some artists were very adept at creating lifelike images from specimens, as in the case of the cobra plant Darlingtonia californica, where only a specimen was available.  
+From the early days of herbaria, specimens have been used as reference material by artists.  In illustrations where plants appear flattened, it might be because the artist was looking at a specimen rather than a living plant.  However, some artists were very adept at creating lifelike images from specimens, as in the case of the cobra plant <em>Darlingtonia californica</em>, where only a specimen was available.  
 
 <param ve-image fit
        label="<em>Darlingtonia californica</em> illustration by Isaac Sprague displaying his ability to depict a plant accurately, guided solely by dried specimens"
