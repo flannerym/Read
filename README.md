@@ -29,6 +29,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q313492"><!-- Meriwether Lewis -->
 <param ve-entity eid="Q355348"><!-- William Clark -->
 <param ve-entity eid="Q1349394"><!-- Richard Spruce -->
+<param ve-entity eid="Q1138945"><!-- Darlingtonia californica -->
 
 
 ## What Are Herbarium Specimens?
@@ -151,3 +152,15 @@ url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifol
         description="Royal Botanic Gardens, Kew"
 url="https://herbariumworld.files.wordpress.com/2022/12/spruce.jpeg">
 {#paragraph9}
+
+## How Are Specimens Used by Artists?
+
+From the early days of herbaria, specimens have been used as reference material by artists.  In illustrations where plants appear flattened, it might be because the artist was looking at a specimen rather than a living plant.  However, some artists were very adept at creating lifelike images from specimens, as in the case of the cobra plant Darlingtonia californica, where only a specimen was available.  
+
+<param ve-image fit
+       label="<em>Darlingtonia californica</em> illustration by Isaac Sprague displaying his ability to depict a plant accurately, guided solely by dried specimens"
+       description="Missouri Botanical Garden, Peter H. Raven Library"
+       license="public domain"
+url="">
+
+{#paragraph 10}
