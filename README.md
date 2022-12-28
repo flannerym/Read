@@ -163,4 +163,8 @@ From the early days of herbaria, specimens have been used as reference material 
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2022/12/darlingtonia-sprague-sm.jpeg">
 
+<param ve-image fit
+       label="Type specimen of <em>Darlingtonia californica</em>"
+       description="Courtesy of C. V. Starr Virtual Herbarium, New York Botanical Garden"
+url="https://herbariumworld.files.wordpress.com/2022/12/darlingtonia-specimen.jpg">
 {#paragraph 10}
