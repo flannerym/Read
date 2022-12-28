@@ -161,6 +161,6 @@ From the early days of herbaria, specimens have been used as reference material 
        label="<em>Darlingtonia californica</em> illustration by Isaac Sprague displaying his ability to depict a plant accurately, guided solely by dried specimens"
        description="Missouri Botanical Garden, Peter H. Raven Library"
        license="public domain"
-url="">
+url="https://herbariumworld.files.wordpress.com/2022/12/darlingtonia-sprague-sm.jpeg">
 
 {#paragraph 10}
