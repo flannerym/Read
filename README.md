@@ -172,6 +172,8 @@ url="https://herbariumworld.files.wordpress.com/2022/12/darlingtonia-specimen.jp
 
 Today, a number of artists are looking to herbaria for inspiration for their work.  The British artist Tracey Bush created “specimens” by making flower cutouts from cardboard packaging, to illustrate her argument that many people today are more likely to recognize brands by name than flowers by name.  In another statement on contemporary culture, the Colombian artist Alberto Baraya has “pressed” artificial flowers onto herbarium sheets and labeled with the location he collected them, often from far-flung hotels as a statement about the “invasiveness” of our manufactured world.  
 
-
+<param ve-image fit
+       label="<em>Dendrobium fuccia</em> from Herbario de Plantas Artificiales (2014) by Alberto Baraya"
+url="https://herbariumworld.files.wordpress.com/2016/11/baraya-dendrobium-fuccia-sm.jpg">
 
 {#paragraph11}
