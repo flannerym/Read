@@ -30,7 +30,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q355348"><!-- William Clark -->
 <param ve-entity eid="Q1349394"><!-- Richard Spruce -->
 <param ve-entity eid="Q1138945"><!-- Darlingtonia californica -->
-
+<param ve-entity eid="Q155633138"><!-- Tracey Bush -->
+<param ve-entity eid="Q155633132"><!-- Alberto Baraya -->
 
 ## What Are Herbarium Specimens?
 
@@ -168,3 +169,9 @@ url="https://herbariumworld.files.wordpress.com/2022/12/darlingtonia-sprague-sm.
        description="Courtesy of C. V. Starr Virtual Herbarium, New York Botanical Garden"
 url="https://herbariumworld.files.wordpress.com/2022/12/darlingtonia-specimen.jpg">
 {#paragraph 10}
+
+Today, a number of artists are looking to herbaria for inspiration for their work.  The British artist Tracey Bush created “specimens” by making flower cutouts from cardboard packaging, to illustrate her argument that many people today are more likely to recognize brands by name than flowers by name.  In another statement on contemporary culture, the Colombian artist Alberto Baraya has “pressed” artificial flowers onto herbarium sheets and labeled with the location he collected them, often from far-flung hotels as a statement about the “invasiveness” of our manufactured world.  
+
+
+
+{#paragraph11}
