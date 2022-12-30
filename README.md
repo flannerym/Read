@@ -30,8 +30,8 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q355348"><!-- William Clark -->
 <param ve-entity eid="Q1349394"><!-- Richard Spruce -->
 <param ve-entity eid="Q1138945"><!-- Darlingtonia californica -->
-<param ve-entity eid="Q155633138"><!-- Tracey Bush -->
-<param ve-entity eid="Q155633132"><!-- Alberto Baraya -->
+<param ve-entity eid="Q115633138"><!-- Tracey Bush -->
+<param ve-entity eid="Q115633132"><!-- Alberto Baraya -->
 
 ## What Are Herbarium Specimens?
 
