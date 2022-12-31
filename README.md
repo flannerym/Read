@@ -189,4 +189,13 @@ url="https://herbariumworld.files.wordpress.com/2016/11/baraya-dendrobium-fuccia
 
 Herbaria are full of surprises.  While most sheets are white with plants and labels attached to them, sometimes a folder contains something very different like a specimen created by a British physician who obviously spent a great deal of time studying this grass, drawing details of it, and even making nature prints of its seeds.  Then he crafted a fitting presentation for all his work.  There are also herbaria made by people hardly considered scientists like the poet Emily Dickinson who created a book of specimens and the painter Paul Klee who attached his plants to brown paper and took his collection with him when he traveled.  Sometimes an insect will be found pressed along with the plant; one entomologist suggested that herbaria were good places to hunt for new beetle species.  There’s even a specimen of a pitcher plant with the remains of a frog that fell down its long vase-like leaf into digesting fluid and couldn’t escape.
 
+<param ve-image fit
+       label="Emily Dickinson specimens labeled <em>Oxalis violacea, Ipomoea quamoclit, Clematis viorna,</em> and <em>Orobanche americana</em>"
+       description="Dickinson herbarium. Houghton Library, Harvard University"
+url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
+
+<param ve-image fit
+       label="Sheet from Paul Klee’s herbarium, ~1930; from top left to bottom right: <em>Anthyllis vulneraria, Anthyllis, Lotus corniculatus, Trifolium, Anthyllis vulneraria, Melilotus officinalis, Trifolium badium, Trifolium alpinium, Medicago lupulina</em>"
+       description="Zentrum Paul Klee, Berne"
+url="https://herbariumworld.files.wordpress.com/2022/12/klee-herbarium.jpeg">
 {#paragraph12}
