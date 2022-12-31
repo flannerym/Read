@@ -32,6 +32,9 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q1138945"><!-- Darlingtonia californica -->
 <param ve-entity eid="Q115633138"><!-- Tracey Bush -->
 <param ve-entity eid="Q115633132"><!-- Alberto Baraya -->
+<param ve-entity eid="Q4441"><!-- Emily Dickinson -->
+<param ve-entity eid="Q44007"><!-- Paul Klee -->
+<param ve-entity eid="Q39286" aliases="entomologist"><!-- entomology -->
 
 ## What Are Herbarium Specimens?
 
@@ -180,3 +183,7 @@ url="https://herbariumworld.files.wordpress.com/2022/12/bush-ranunculus.jpeg">
        label="<em>Dendrobium fuccia</em> from Herbario de Plantas Artificiales (2014) by Alberto Baraya"
 url="https://herbariumworld.files.wordpress.com/2016/11/baraya-dendrobium-fuccia-sm.jpg">
 {#paragraph11}
+
+Herbaria are full of surprises.  While most sheets are white with plants and labels attached to them, sometimes a folder contains something very different like a specimen created by a British physician who obviously spent a great deal of time studying this grass, drawing details of it, and even making nature prints of its seeds.  Then he crafted a fitting presentation for all his work.  There are also herbaria made by people hardly considered scientists like the poet Emily Dickinson who created a book of specimens and the painter Paul Klee who attached his plants to brown paper and took his collection with him when he traveled.  Sometimes an insect will be found pressed along with the plant; one entomologist suggested that herbaria were good places to hunt for new beetle species.  There’s even a specimen of a pitcher plant with the remains of a frog that fell down its long vase-like leaf into digesting fluid and couldn’t escape.
+
+{#paragraph12}
