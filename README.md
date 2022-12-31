@@ -185,6 +185,8 @@ url="https://herbariumworld.files.wordpress.com/2022/12/bush-ranunculus.jpeg">
 url="https://herbariumworld.files.wordpress.com/2016/11/baraya-dendrobium-fuccia-sm.jpg">
 {#paragraph11}
 
+## Why Are Herbarium Specimens So Fascinating?
+
 Herbaria are full of surprises.  While most sheets are white with plants and labels attached to them, sometimes a folder contains something very different like a specimen created by a British physician who obviously spent a great deal of time studying this grass, drawing details of it, and even making nature prints of its seeds.  Then he crafted a fitting presentation for all his work.  There are also herbaria made by people hardly considered scientists like the poet Emily Dickinson who created a book of specimens and the painter Paul Klee who attached his plants to brown paper and took his collection with him when he traveled.  Sometimes an insect will be found pressed along with the plant; one entomologist suggested that herbaria were good places to hunt for new beetle species.  There’s even a specimen of a pitcher plant with the remains of a frog that fell down its long vase-like leaf into digesting fluid and couldn’t escape.
 
 {#paragraph12}
