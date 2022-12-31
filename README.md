@@ -35,6 +35,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q4441"><!-- Emily Dickinson -->
 <param ve-entity eid="Q44007"><!-- Paul Klee -->
 <param ve-entity eid="Q39286" aliases="entomologist"><!-- entomology -->
+<param ve-entity eid=Q1956533"><!-- pitcher plant -->
 
 ## What Are Herbarium Specimens?
 
