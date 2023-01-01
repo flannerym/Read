@@ -40,7 +40,7 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 
 ## What Are Herbarium Specimens?
 
-There are over 340,000 known flowering plant species, a lot to keep track of.  With many these species threatened by environmental change, it’s particularly important to document what is growing where.  This is one of the functions of herbarium specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century.  
+There are over 340,000 known flowering plant species, a lot to keep track of.  With many these species threatened by environmental change, it’s particularly important to document what is growing where.  This is one of the functions of herbarium specimens, <span data-click-image-zoomto="-485,0,2427,1649">preserved plants</span> often in the form of pressed cuttings that have been collected since the 16th century.  
 
 <param ve-image fit
        label="At right, fruiting specimen of tomato (<em>Solanum lycopersicum</em>) from En Tibi herbarium, attributed to the Italian botanist Francesco Petrollini (late 1550s)"
