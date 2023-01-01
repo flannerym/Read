@@ -51,7 +51,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg
 
 ## How Are Herbarium Specimens Made?
 
-The technique used to preserve plants is very similar to that originally used.  A cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn’t curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  Bulky items, like pine cones, are stored in boxes and items like fruits and orchid flowers are kept in jars filled with a liquid preservative.  
+The technique used to preserve plants is very similar to that originally used.  A cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn’t curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  
 
 <param ve-image fit
        label="Three plant collecting tools: vasculum, plant press, and loupe or hand lens"
@@ -78,7 +78,13 @@ url="https://herbariumworld.files.wordpress.com/2022/08/nelson_pityopsis.jpg">
 
 ## How Are Specimens Stored?
 
-The practice of making specimens may have begun with people slipping cuttings between pages of a book, as a remembrance either romantic or scientific.  So it’s not surprising that many early herbaria were in book form.  Some collectors kept the specimens loose, others pasted or sewed them to sheets.  However, not everyone bound their specimens.  Leaving the sheets unbound made it easier to sort them, keep similar species together, and refile them as classifications changed.  Now, most herbaria store their specimens in folders for each species or genus, laid flat in metal cabinets; some put the folders in boxes.
+The practice of making specimens may have begun with people slipping cuttings between pages of a book, as a remembrance either romantic or scientific.  So it’s not surprising that many early herbaria were in book form.  Some collectors kept the specimens loose, others pasted or sewed them to sheets.  However, not everyone bound their specimens.  Leaving the sheets unbound made it easier to sort them, keep similar species together, and refile them as classifications changed.  Now, most herbaria store their specimens in folders for each species or genus, laid flat in metal cabinets; some put the folders in boxes.  Bulky items, like pine cones, are stored in boxes and items like fruits and orchid flowers are kept in jars filled with a liquid preservative.  
+
+<param ve-image fit
+       label="Folders of <em>Pinus</em> species"
+       description="A.C. Moore Herbarium, University of South Carolina, Columbia, SC"
+       license="public domain"
+url="https://herbariumworld.files.wordpress.com/2022/12/pine-cabinet.jpeg">
 
 <param ve-image fit
        label="One of Irish botanist Augustine Henry's boxes of tree specimens"
@@ -86,11 +92,6 @@ The practice of making specimens may have begun with people slipping cuttings be
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jpg">
 
-<param ve-image fit
-       label="Folders of <em>Pinus</em> species"
-       description="A.C. Moore Herbarium, University of South Carolina, Columbia, SC"
-       license="public domain"
-url="https://herbariumworld.files.wordpress.com/2022/12/pine-cabinet.jpeg">
 {#paragraph4}
 
 ## How Do Specimens Get Around?
