@@ -36,7 +36,6 @@ banner="https://iiif.juncture-digital.org/banner/?url=http://137.204.21.141/aldr
 <param ve-entity eid="Q44007"><!-- Paul Klee -->
 <param ve-entity eid="Q39286" aliases="entomologist"><!-- entomology -->
 <param ve-entity eid="Q1956533"><!-- pitcher plant -->
-<param ve-entity eid="Q894671"><!-- vasculum -->
 
 ## What Are Herbarium Specimens?
 
@@ -54,9 +53,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg
 The technique used to preserve plants is very similar to that originally used.  A cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn’t curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  
 
 <param ve-image fit
-       label="Three plant collecting tools: vasculum, plant press, and loupe or hand lens"
-       license="public domain"
-url="https://herbariumworld.files.wordpress.com/2022/08/tools.jpg">
+       label="Full plant press with tightened straps to maintain the pressure during drying"
+       description="University of Florida Herbarium"
+url="https://herbariumworld.files.wordpress.com/2023/01/plant-press-.jpeg">
 {#paragraph2}
 
 ## What Information Is on a Specimen Label?
