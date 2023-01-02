@@ -57,6 +57,12 @@ The technique now used to preserve plants is very similar to that originally use
        description="University of Florida Herbarium"
 url="https://herbariumworld.files.wordpress.com/2023/01/pressing-plants.jpeg">
 
+<param ve-image fit ref="2"
+       label="Full plant press with tightened straps to maintain the pressure during drying"
+       description="University of Florida Herbarium"
+url="https://herbariumworld.files.wordpress.com/2023/01/plant-press-.jpeg">
+{#paragraph2}
+
 ## What Information Is on a Specimen Label?
 
 A label with at least the plant’s name identifies the specimen.  Early labels usually contained little more than the name, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
