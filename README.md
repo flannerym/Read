@@ -55,7 +55,7 @@ The technique now used to preserve plants is very similar to that originally use
 <param ve-image fit ref="1"
        label="Plants pressed between newspapers and then between pieces of absorbent paper, with foam in between for air circulation to facilitate drying"
        description="University of Florida Herbarium"
-url="https://herbariumworld.files.wordpress.com/2023/01/pressing-plants.jpeg">
+url=" https://herbariumworld.files.wordpress.com/2023/01/pressing-plants-1.jpeg">
 
 <param ve-image fit ref="2"
        label="Full plant press with tightened straps to maintain the pressure during drying"
