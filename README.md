@@ -52,7 +52,10 @@ url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg
 
 The technique used to preserve plants is very similar to that originally used.  A cutting is carefully spread out on <span data-click-image-zoomto="1">absorbent paper</span>, covered by another sheet, and <span data-click-image-zoomto="2">pressed between boards</span> so the plant doesn’t curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  
 
-
+<param ve-image fit ref="1"
+       label="Plants pressed between newspapers and then between pieces of absorbent paper, with foam in between for air circulation to facilitate drying"
+       description="University of Florida Herbarium"
+url="https://herbariumworld.files.wordpress.com/2023/01/pressing-plants.jpeg">
 
 <param ve-image fit ref="2"
        label="Full plant press with tightened straps to maintain the pressure during drying"
