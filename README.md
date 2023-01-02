@@ -50,6 +50,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/petrollin_tomato-sm.jpeg
 
 ## How Are Herbarium Specimens Made?
 
+The technique now used to preserve plants is very similar to that originally used.  A cutting is carefully spread out on <span data-click-image-zoomto="1">absorbent paper</span>, covered by another sheet, and <span data-click-image-zoomto="2">pressed between boards</span> so the plant doesn't curl up as it dries.  A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.
+
 
 
 ## What Information Is on a Specimen Label?
