@@ -65,15 +65,15 @@ url="https://herbariumworld.files.wordpress.com/2023/01/plant-press-.jpeg">
 
 ## What Information Is on a Specimen Label?
 
-A label with at least the plant’s name identifies the specimen.  Early labels usually contained little more than the name, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
+A label with at least the plant’s name identifies the specimen.  <span data-click-image-zoomto="1"Early labels</span> usually contained little more than the name, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
 
-<param ve-image fit
+<param ve-image fit ref="1"
        label="Specimen of anemone now <em>Anenome hortensis</em> from the collection of Ulisse Aldrovandi, a colleague of Luca Ghini" 
        description="University of Bologna" 
        license="public domain"
 url="http://137.204.21.141/ALDROVANDI/image/vol2fg338.JPG">  
 
-<param ve-image fit 
+<param ve-image fit ref="2"
        label="Specimen of narrowleaf silkgrass (<em>Pityopsis graminifolia</em>) collected by John Nelson in Orangeburg, South Carolina. This illustrates the information that usually appears on specimens today: specimen name with its family underneath; the collector’s name; number, location, and date; a brief description of the plant and its habitat; geographic coordinates. The stamp of the A. C. Moore Herbarium and the accession number are in the upper righthand corner. The barcode at the bottom indicates that the specimen has been imaged and the label information digitized; the ruler and color chart at the top are references for quality control. The graphic description of the habitat is a specialty of the collector."
        description="A. C. Moore Herbarium, University of South Carolina, Columbia"
        license="public domain"
