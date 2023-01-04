@@ -65,7 +65,7 @@ url="https://herbariumworld.files.wordpress.com/2023/01/plant-press-.jpeg">
 
 ## What Information Is on a Specimen Label?
 
-A label with at least the plant’s name identifies the specimen.  <span data-click-image-zoomto="1"Early labels</span> usually contained little more than the name, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
+A label with at least the plant’s name identifies the specimen.  <span data-click-image-zoomto="1">Early labels</span> usually contained little more than <span data-click-image-zoomto"1⎜165,123,1251,974">the name</span>, often in Latin and a vernacular language.  As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add geographic coordinates for precise location and also a short description of the habitat and other species present.
 
 <param ve-image fit ref="1"
        label="Specimen of anemone now <em>Anenome hortensis</em> from the collection of Ulisse Aldrovandi, a colleague of Luca Ghini" 
