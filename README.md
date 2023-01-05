@@ -82,7 +82,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/nelson_pityopsis.jpg">
 
 ## How Are Specimens Stored?
 
-The practice of making specimens may have begun with people slipping cuttings between pages of a book, as a remembrance either romantic or scientific.  So it’s not surprising that many early herbaria were in <span data-click-image-zoomto=1">book</span> form.  Some collectors kept the specimens loose, others pasted or sewed them to sheets.  However, not everyone bound their specimens.  Leaving the sheets unbound made it easier to sort them, keep similar species together, and refile them as classifications changed.  Now, most herbaria store their specimens in folders for each species or genus, laid flat in metal cabinets; some put the folders in boxes.  Bulky items, like pine cones, are stored in boxes and items like fruits and orchid flowers are kept in jars filled with a liquid preservative.  
+The practice of making specimens may have begun with people slipping cuttings between pages of a book, as a remembrance either romantic or scientific.  So it’s not surprising that many early herbaria were in <span data-click-image-zoomto="1">book</span> form.  Some collectors kept the specimens loose, others pasted or sewed them to sheets.  However, not everyone bound their specimens.  Leaving the sheets unbound made it easier to sort them, keep similar species together, and refile them as classifications changed.  Now, most herbaria store their specimens in <span data-click-image-zoomto="2">folders</span> for each species or genus, laid flat in metal cabinets; some put the folders in boxes.  Bulky items, like pine cones, are stored in <span data-click-image-zoomto="3">boxes</span> and items like fruits and orchid flowers are kept in jars filled with a liquid preservative.  
 
 <param ve-image fit ref="1"
        label="Herbarium of Johannes Harder from about 1595; specimen sheets were often bound to preserve and keep them in order"
@@ -101,7 +101,6 @@ url="https://herbariumworld.files.wordpress.com/2022/12/pine-cabinet.jpeg">
        description="National Botanic Garden of Ireland"
        license="public domain"
 url="https://herbariumworld.files.wordpress.com/2017/05/henry-specimen-box-sm.jpg">
-
 {#paragraph4}
 
 ## How Do Specimens Get Around?
