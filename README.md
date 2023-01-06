@@ -121,15 +121,14 @@ url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.j
 
 ## How Are Specimens Used by Botanists?
 
-Herbaria have always been used for reference, as a reminder of a plant’s characteristics, and to teach students.  Botanists rely on specimens to compare traits among related species.  By the 18th century, when the Swedish botanist Carl Linnaeus developed his classification and naming system, herbaria had become essential tools because they provided evidence from the plant itself.  In the 19th century, the practice developed of considering the specimen studied by the person who originally described the species to be particularly important.  This became known as a type specimen.  Besides work in classification or taxonomy, specimens are used in systematics, that is, working out how species are related to each other. 
+Herbaria have always been used for reference, as a reminder of a plant’s characteristics, and to teach students.  Botanists rely on specimens to compare traits among related species.  By the 18th century, when the Swedish botanist Carl Linnaeus developed his classification and naming system, herbaria had become essential tools because they provided evidence from the plant itself.  In the 19th century, the practice developed of considering the specimen studied by the person who originally described the species to be particularly important.  This became known as a <span data-click-image-zoomto="1">type specimen</span>.  Besides work in classification or taxonomy, specimens are used in systematics, that is, working out how species are related to each other. 
 
-
-<param ve-image fit 
+<param ve-image fit ref="1"
        label="Type specimen of <em>Solanum humboldtianum</em> collected by Juan Granados-Tochoy and W. Meier in 2005 on the western slopes of the Andean Cordillera Oriental in Colombia and used in the published description of the species"
        description="Universidad Nacional de Colombia"
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-new.jpeg">
 
-<param ve-image fit 
+<param ve-image fit ref="2"
        label="Specimen of <em>Solanum humboldtianum</em> collected by Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia"
        description="National Museum of Natural History, Paris, collected 200 years earlier"
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
