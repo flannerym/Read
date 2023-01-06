@@ -121,7 +121,7 @@ url="https://herbariumworld.files.wordpress.com/2022/08/franklinia-specimen-sm.j
 
 ## How Are Specimens Used by Botanists?
 
-Herbaria have always been used for reference, as a reminder of a plant’s characteristics and to teach students.  Botanists rely on specimens in taxonomic studies, comparing traits among related species.  Specimens are also used in systematic research, working out how species are related to each other. By the 18th century, when the Swedish botanist Carl Linnaeus developed his classification and naming system, herbaria had become essential tools because they provided evidence from the plant itself.  In the 19th century, the practice developed of considering the specimen studied by the person who originally described the species to be particularly important.  This became known as a type specimen.  <span data-click-image-zoomto="1"><em>Solanum humboldtianum</em></span> was collected in 2005 and designated as the type specimen or in Latin "holotypus," with its description as a new species published in 2007.  The <span data-click-image-zoomto="2|786,1656,562,445">first specimen</span> of the same species was collected 200 years earlier, but was left with just the genus identification <span data-click-image-zoomto"<em>Solanum</em> for 200 years.
+Herbaria have always been used for reference, as a reminder of a plant’s characteristics and to teach students.  Botanists rely on specimens in taxonomic studies, comparing traits among related species.  Specimens are also used in systematic research, working out how species are related to each other. By the 18th century, when the Swedish botanist Carl Linnaeus developed his classification and naming system, herbaria had become essential tools because they provided evidence from the plant itself.  In the 19th century, the practice developed of considering the specimen studied by the person who originally described the species to be particularly important.  This became known as a type specimen.  <span data-click-image-zoomto="1"><em>Solanum humboldtianum</em></span> was collected in 2005 and designated as the type specimen or in Latin "holotypus," with its description as a new species published in 2007.  The <span data-click-image-zoomto="2">first specimen</span> of the same species was collected 200 years earlier, but was left with just the genus identification <span data-click-image-zoomto="2|786,1656,562,445"><em>Solanum</em></span> for 200 years.
 
 <param ve-image fit ref="1"
        label="Type specimen of <em>Solanum humboldtianum</em> collected by Juan Granados-Tochoy and W. Meier in 2005 on the western slopes of the Andean Cordillera Oriental in Colombia and used in the published description of the species"
@@ -129,8 +129,8 @@ Herbaria have always been used for reference, as a reminder of a plant’s chara
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-new.jpeg">
 
 <param ve-image fit ref="2"
-       label="Specimen of <em>Solanum humboldtianum</em> collected by Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia"
-       description="National Museum of Natural History, Paris, collected 200 years earlier"
+       label="Specimen of <em>Solanum humboldtianum</em> collected collected 200 years earlier by the explorers Alexander von Humboldt and Aimé Bonpland near Bogotá, Colombia"
+       description="National Museum of Natural History, Paris"
 url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
 
 {#paragraph6}
