@@ -138,10 +138,9 @@ url="https://herbariumworld.files.wordpress.com/2022/08/humboldt-sm.jpeg">
 Charles Darwin posited that all living things arose from a single organism and through descent with modification the number of species increased and organisms evolved different traits, driving the process still further.  In the 21st century it has become possible to extract DNA from specimens and use it in comparing species, making preserved plants powerful tools in evolutionary research and in studying genetic differences among populations of a single species.  In addition, chemists can analyze specimens for substances with medicinal effects, for plant chemicals produced during insect infestation, and for heavy metal pollutants.  As biodiversity is threatened by global warming and habitat destruction, specimen data is crucial in tracking climate change, spread of invasive species, and degradation of habitats.  Herbaria also house specimens of species now extinct in the wild and specimens that are identified as new species even decades or centuries after they were collected. 
 
 <param ve-image fit
-       label="<em>Eustoma exaltatum</em> catchfly prairie gentian collected by Chase Mathey in Cameron, Louisiana. Geographic coordinates and flowering status are noted on the label"
-       description="Shirley C. Tucker Herbarium, Louisiana State University"
-       license="CC BY-NC 3.0"
-url="https://herbariumworld.files.wordpress.com/2022/12/eustoma-exaltatum-lsu00213549_l.jpeg">
+       label="Specimen of sicklepod (<em>Senna obtusifolia</em>) collected by Wayne Longbottom in 2011 in Fremont, North Carolina"
+       description="Courtesy of C. V. Starr Virtual Herbarium, New York Botanical Garden"
+url="https://herbariumworld.files.wordpress.com/2023/01/dna-senna-obtusifolia.jpeg">
 {#paragraph7}
 
 ## How Are Specimens Used by Historians?
