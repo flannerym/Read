@@ -144,7 +144,7 @@ url="https://herbariumworld.files.wordpress.com/2023/01/dna-senna-obtusifolia.jp
 
 ## How Are Specimens Used by Historians?
 
-Herbaria can be the focus of an historian’s research or one source of information among many.  Botanists paid little attention to early herbaria because these only contained old plant names that were no longer valid.  Now collections are being reexamined, and historians are finding them valuable records of the movement of plants, such as the arrival of tomato specimens and seeds into Europe from Latin America and Middle Eastern specimens brought back by the Dutch botanist Leonhard Rauwolf.  These included cultivated plants varieties like this <span data-click-image-zoomto="">eggplant</span> that have long ago disappeared.
+Herbaria can be the focus of an historian’s research or one source of information among many.  Botanists paid little attention to early herbaria because these only contained old plant names that were no longer valid.  Now collections are being reexamined, and historians are finding them valuable records of the movement of plants, such as the arrival of tomato specimens and seeds into Europe from Latin America and Middle Eastern specimens brought back by the Dutch botanist Leonhard Rauwolf.  These included cultivated plants varieties like this <span data-click-image-zoomto="115,375,1345,1045">eggplant</span> that have long ago disappeared.
 
 <param ve-image fit
        label="Specimen of eggplant (<em>Solanum melongena</em>) with ﬂower and fruits, collected by Leonhard Rauwolf in Syria in 1575"
