@@ -144,13 +144,13 @@ url="https://herbariumworld.files.wordpress.com/2023/01/dna-senna-obtusifolia.jp
 
 ## How Are Specimens Used by Historians?
 
-Herbaria can be the focus of an historian’s research or one source of information among many.  Botanists paid little attention to early herbaria because these only contained old plant names that were no longer valid.  Now collections are being reexamined, and historians are finding them valuable records of the movement of plants, such as the arrival of tomato specimens and seeds into Europe from Latin America and Middle Eastern specimens brought back by the Dutch botanist Leonhard Rauwolf.  These include varieties of cultivated plants that long ago disappeared.
+Herbaria can be the focus of an historian’s research or one source of information among many.  Botanists paid little attention to early herbaria because these only contained old plant names that were no longer valid.  Now collections are being reexamined, and historians are finding them valuable records of the movement of plants, such as the arrival of tomato specimens and seeds into Europe from Latin America and Middle Eastern specimens brought back by the Dutch botanist Leonhard Rauwolf.  These included cultivated plants varieties like this <span data-click-image-zoomto="">eggplant</span> that have long ago disappeared.
 
 <param ve-image fit
-       label="<em>Limonium sinuatum</em> collected in Lebanon by Leonhard Rauwolf in 1575"
+       label="Specimen of eggplant (<em>Solanum melongena</em>) with ﬂower and fruits, collected by Leonhard Rauwolf in Syria in 1575"
        description="Naturalis Biodiversity Center. Leiden, NLD"
        license="Public Domain"
-url="https://herbariumworld.files.wordpress.com/2022/12/rauwolf-sm-limonium-l.2111480.jpeg">
+url="https://herbariumworld.files.wordpress.com/2023/01/rauwolf-eggplant-sm.jpg">
 {#paragraph8}
 
 Other historians use herbaria as one of many sources of information on topics ranging from documenting the travels of plant collectors to indigenous knowledge about plants and its exploitation by colonizers.  While specimen labels, particularly old ones, often contain just brief bits of information, these can be helpful in substantiating other information about a collector.  A specimen collected by Meriwether Lewis on his expedition with William Clark might give a general locale for collection and perhaps a date, but their journals can give more information about where they were and when.  The British plant collector Richard Spruce took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens. 
