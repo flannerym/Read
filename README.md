@@ -153,14 +153,14 @@ Herbaria can be the focus of an historian’s research or one source of informat
 url="https://herbariumworld.files.wordpress.com/2023/01/rauwolf-eggplant-sm.jpg">
 {#paragraph8}
 
-Other historians use herbaria as one of many sources of information on topics ranging from documenting the travels of plant collectors to indigenous knowledge about plants and its exploitation by colonizers.  While specimen labels, particularly old ones, often contain just brief bits of information, these can be helpful in substantiating other information about a collector.  A specimen collected by Meriwether Lewis on his expedition with William Clark might give a general locale for collection and perhaps a date, but their journals can give more information about where they were and when.  The British plant collector Richard Spruce took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens. 
+Other historians use herbaria as one of many sources of information on topics ranging from documenting the travels of plant collectors to indigenous knowledge about plants and its exploitation by colonizers.  While specimen labels, particularly old ones, often contain just brief bits of information, these can be helpful in substantiating other information about a collector.  A specimen collected by Meriwether Lewis on his expedition with William Clark might give a general locale for collection and perhaps a date, but their journals can give more information about where they were and when.  The British plant collector <span data-click-image-zoomto="2">Richard Spruce</span> took notes on the indigenous uses for the plants he collected and in some cases these are still <span data-click-image-zoomto="2|61,36,1040,791">affixed</span> to specimens. 
 
-<param ve-image fit
+<param ve-image fit ref="1"
        label="Specimen of long-leafed sage (<em>Artemisia longifolia</em>) with original Lewis label of blue blotter paper: 'No. 53, October 3rd flavor like the chamomile radix perennial growth of the high bluffs'"
        description="Deposited by the American Philosophical Society at the Academy of Natural Sciences of Drexel University (PH Herbarium PH00043182677)"
 url="https://herbariumworld.files.wordpress.com/2022/08/lewis-artemesia-longifolia.jpg">
 
-<param ve-image fit
+<param ve-image fit ref="2"
         label="Specimen of <em>Piptadenia peregrine</em>, now <em>Anadenanthera peregrina</em>, collected by Richard Spruce on the north shore of the Amazon, at entrance to the Rio Negro in August 1851. 'This tree is planted by the Indians near their houses. . .the seeds are roasted and ground in the manner of coffee, and the powder taken as snuff.'"
         description="Royal Botanic Gardens, Kew"
 url="https://herbariumworld.files.wordpress.com/2022/12/spruce.jpeg">
