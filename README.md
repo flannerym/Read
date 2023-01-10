@@ -206,4 +206,8 @@ url="https://herbariumworld.files.wordpress.com/2022/08/dickinson.jpg">
        label="Sheet from Paul Klee’s herbarium, ~1930; from top left to bottom right: <em>Anthyllis vulneraria, Anthyllis, Lotus corniculatus, Trifolium, Anthyllis vulneraria, Melilotus officinalis, Trifolium badium, Trifolium alpinium, Medicago lupulina</em>"
        description="Zentrum Paul Klee, Berne"
 url="https://herbariumworld.files.wordpress.com/2022/12/klee-herbarium.jpeg">
+<param ve-image fit ref="3"
+       label="Darlingtonia californica collected by Rebecca Merritt Austin in Plumas County, CA in 1878.  She comments: “Tube enclosing remains of a frog.”  At some point, an advertisement the plant was added."
+       description="Harvard University Herbaria"
+url="https://herbariumworld.files.wordpress.com/2023/01/cobra-plant.jpeg">
 {#paragraph12}
